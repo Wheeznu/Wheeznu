@@ -1,11 +1,13 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://tenor.com/xU7bTW56wF.gif"  />
+  <img data-importer="image" height="150" src="assets/firefly.gif"  />
 </div>
 
 ###
 
 <div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.instagram.com/wheeznuu/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -24,7 +26,7 @@
 
 ###
 
-<p data-importer="text" align="left">👋 Hello! I am a developer interested in building clean web applications and exploring new technologies.<br><br>- 🔭 <b>Current Focus:</b> Building interactive web projects.<br>- 📚 <b>Learning:</b> Exploring new frontend and backend technologies.<br>- ⚡ <b>In my free time:</b> I enjoy stargazing, gaming, and experimenting with code.</p>
+<p data-importer="text" align="left">👋 Hello! I am a developer interested in building clean web applications and exploring new technologies.<br><br>- 🔭 <b>Current Focus:</b> Building interactive web projects.<br>- 📚 <b>Learning:</b> Exploring new frontend and backend technologies.<br>- 🎵 <b>In my free time:</b> I enjoy music, gaming, and experimenting with code.</p>
 
 ###
 

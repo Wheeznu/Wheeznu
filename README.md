@@ -46,7 +46,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<h3 data-importer="text" align="left">📊   My Stats :</h3>
 
 ###
 

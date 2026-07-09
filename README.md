@@ -18,7 +18,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">🌌 Exploring the galaxy of web development. 🚀</h1>
+<h1 data-importer="text" align="center">🪐 Crafting digital constellations, one line at a time. ☄️</h1>
 
 ###
 
